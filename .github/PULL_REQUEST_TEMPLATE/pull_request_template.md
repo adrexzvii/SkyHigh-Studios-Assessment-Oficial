@@ -14,7 +14,7 @@
 - [ ] Performance improvement
 - [ ] Documentation update
 - [x] Code refactoring
-- [ ] Other
+- [x] Other
 
 ## Files Changed
 - src/components/ControlPanel.js (New)
